@@ -1,7 +1,7 @@
 // Using console.log to display information
 
 console.log("Hello All");
-console.log("This is Sandhya..!");
+console.log("This is Shajith..!");
 console.log("nice to meet you.");
 
 
